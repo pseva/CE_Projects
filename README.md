@@ -1,1 +1,1 @@
-# Codes for projects I completed while on CE 
+# Codes for projects I completed while on internship
